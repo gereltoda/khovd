@@ -8,7 +8,7 @@
                 <div class="panel-heading">Dashboard</div>
 
                 <div class="panel-body">
-                    ingej  solii
+                    ingej  solii-gerlee
                 </div>
             </div>
         </div>
